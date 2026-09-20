@@ -1,0 +1,1 @@
+{"name":"devtools-llm-failover","private":true,"type":"module","scripts":{"start":"tsx src/devtools_service.ts","test":"tsx src/failover_decision.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"openai":"^4.80.0","zod":"^3.24.0"},"devDependencies":{"tsx":"^4.19.0","typescript":"^5.7.0","@types/node":"^22.0.0"}}
